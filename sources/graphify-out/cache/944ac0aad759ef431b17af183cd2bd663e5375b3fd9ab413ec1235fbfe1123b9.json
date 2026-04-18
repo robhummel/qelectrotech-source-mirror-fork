@@ -1,0 +1,1 @@
+{"nodes": [{"id": "sources_dxf_dxftoelmt_h", "label": "dxftoelmt.h", "file_type": "code", "source_file": "sources/dxf/dxftoelmt.h", "source_location": "L1"}], "edges": [{"source": "sources_dxf_dxftoelmt_h", "target": "qbytearray", "relation": "imports", "confidence": "EXTRACTED", "source_file": "sources/dxf/dxftoelmt.h", "source_location": "L21", "weight": 1.0}], "raw_calls": []}
